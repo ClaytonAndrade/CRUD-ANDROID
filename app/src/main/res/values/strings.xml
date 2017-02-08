@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="edt_email">email@dominio.com</string>
+    <string name="edt_name">Name</string>
+    <string name="btn_cliente">Cadastrar</string>
+    <string name="txtBusca">Buscar</string>
+    <string name="btn_Atualizar">Atualizar</string>
+    <string name="btn_apagar">Apagar</string>
+</resources>
